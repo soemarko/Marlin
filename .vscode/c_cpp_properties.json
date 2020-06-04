@@ -7,6 +7,7 @@
             "name": "Mac",
             "macFrameworkPath": [],
             "includePath": [
+                "/Users/soemarko/Documents/GitHub/Marlin/include",
                 "/Users/soemarko/Documents/GitHub/Marlin/Marlin",
                 "/Users/soemarko/Documents/GitHub/Marlin/.pio/libdeps/LPC1768/SailfishLCD",
                 "/Users/soemarko/Documents/GitHub/Marlin/.pio/libdeps/LPC1768/Adafruit NeoPixel",
@@ -26,6 +27,7 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
+                    "/Users/soemarko/Documents/GitHub/Marlin/include",
                     "/Users/soemarko/Documents/GitHub/Marlin/Marlin",
                     "/Users/soemarko/Documents/GitHub/Marlin/.pio/libdeps/LPC1768/SailfishLCD",
                     "/Users/soemarko/Documents/GitHub/Marlin/.pio/libdeps/LPC1768/Adafruit NeoPixel",
@@ -50,7 +52,7 @@
                 "MCU_LPC1768",
                 "PIO_PLATFORM_VERSION=1001UL",
                 "PIO_FRAMEWORK_VERSION=2002UL",
-                "PLATFORMIO=40301",
+                "PLATFORMIO=40304",
                 "U8G_HAL_LINKS",
                 "__MARLIN_FIRMWARE__",
                 "ARDUINO_ARCH_LPC176X",
